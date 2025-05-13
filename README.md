@@ -64,8 +64,7 @@ Run the application:
 
 ## Project Structure
 
-- `src/main.rs`: Core application code for PDF processing
-- `output_images/`: Directory for temporary image storage
+- `src/main.rs`: Core application code for PDF processing and OCR text extraction
 
 ## Contributing
 
